@@ -7,7 +7,7 @@ I first started work on this earlier this year and worked on it for like 5 month
 I may update the tool if I feel like it but do not expect any large updates.
 
 ## How to Use
-Compile this project or just download the pre-compiled version form Releases. After that just run the program and type your Wii U IP Address from TCP-Gecko into the text box. After that you can use the tool
+Compile this project or just download the pre-compiled version form Releases. After that just run the program and type your Wii U IP Address from TCP-Gecko into the text box. After that you can use the tool.
 
 ## How to Compile
 You need to use Microsoft Visual Studio 2022 to compile Verus.
