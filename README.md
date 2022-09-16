@@ -3,7 +3,7 @@ A easy to use Minecraft Wii U mod tool
 
 ## Information
 My goal with this project was to create a small usefull mod collection in an easy to use tool for Minecraft Wii U Edition.
-I first started work on this earlier this year and worked on it for like 5 months. I had long breaks in between so the whole development time was like 1 - 2 weeks. Also most of the mods are also present in EZ-Cheatz V2. 
+I first started work on this earlier this year and worked on it for like 5 months. I had long breaks in between so the whole development time was like 1 - 2 weeks. Also most of the mods are present in EZ-Cheatz V2. 
 I may update the tool if I feel like it but do not expect any large updates.
 
 ## How to Use
